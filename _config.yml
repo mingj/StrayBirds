@@ -1,12 +1,12 @@
-username: minixalpha
+username: mingj
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
-theme: midnight
-disqusname: minixalpha
+title: jeiao's life 
+description: In me the tiger sniffs the rose
+theme: minimal
+disqusname: mingj
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
 # those themes are all come from GitHub Pages Themes
